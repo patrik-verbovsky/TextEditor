@@ -1,0 +1,16 @@
+C:\Users\spravce\source\repos\DDMAstra2023\richTextBoxDemo\richTextBoxDemo\bin\Debug\net8.0-windows\richTextBoxDemo.exe
+C:\Users\spravce\source\repos\DDMAstra2023\richTextBoxDemo\richTextBoxDemo\bin\Debug\net8.0-windows\richTextBoxDemo.deps.json
+C:\Users\spravce\source\repos\DDMAstra2023\richTextBoxDemo\richTextBoxDemo\bin\Debug\net8.0-windows\richTextBoxDemo.runtimeconfig.json
+C:\Users\spravce\source\repos\DDMAstra2023\richTextBoxDemo\richTextBoxDemo\bin\Debug\net8.0-windows\richTextBoxDemo.dll
+C:\Users\spravce\source\repos\DDMAstra2023\richTextBoxDemo\richTextBoxDemo\bin\Debug\net8.0-windows\richTextBoxDemo.pdb
+C:\Users\spravce\source\repos\DDMAstra2023\richTextBoxDemo\richTextBoxDemo\obj\Debug\net8.0-windows\richTextBoxDemo.Form1.resources
+C:\Users\spravce\source\repos\DDMAstra2023\richTextBoxDemo\richTextBoxDemo\obj\Debug\net8.0-windows\richTextBoxDemo.csproj.GenerateResource.cache
+C:\Users\spravce\source\repos\DDMAstra2023\richTextBoxDemo\richTextBoxDemo\obj\Debug\net8.0-windows\richTextBoxDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spravce\source\repos\DDMAstra2023\richTextBoxDemo\richTextBoxDemo\obj\Debug\net8.0-windows\richTextBoxDemo.AssemblyInfoInputs.cache
+C:\Users\spravce\source\repos\DDMAstra2023\richTextBoxDemo\richTextBoxDemo\obj\Debug\net8.0-windows\richTextBoxDemo.AssemblyInfo.cs
+C:\Users\spravce\source\repos\DDMAstra2023\richTextBoxDemo\richTextBoxDemo\obj\Debug\net8.0-windows\richTextBoxDemo.csproj.CoreCompileInputs.cache
+C:\Users\spravce\source\repos\DDMAstra2023\richTextBoxDemo\richTextBoxDemo\obj\Debug\net8.0-windows\richTextBoxDemo.dll
+C:\Users\spravce\source\repos\DDMAstra2023\richTextBoxDemo\richTextBoxDemo\obj\Debug\net8.0-windows\refint\richTextBoxDemo.dll
+C:\Users\spravce\source\repos\DDMAstra2023\richTextBoxDemo\richTextBoxDemo\obj\Debug\net8.0-windows\richTextBoxDemo.pdb
+C:\Users\spravce\source\repos\DDMAstra2023\richTextBoxDemo\richTextBoxDemo\obj\Debug\net8.0-windows\richTextBoxDemo.genruntimeconfig.cache
+C:\Users\spravce\source\repos\DDMAstra2023\richTextBoxDemo\richTextBoxDemo\obj\Debug\net8.0-windows\ref\richTextBoxDemo.dll
