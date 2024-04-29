@@ -54,7 +54,9 @@
             // 
             // richTextBox1
             // 
+            richTextBox1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             richTextBox1.Location = new Point(12, 57);
+            richTextBox1.MinimumSize = new Size(300, 50);
             richTextBox1.Name = "richTextBox1";
             richTextBox1.Size = new Size(1065, 613);
             richTextBox1.TabIndex = 0;
@@ -171,6 +173,7 @@
             // 
             // button4
             // 
+            button4.Anchor = AnchorStyles.Top | AnchorStyles.Right;
             button4.Location = new Point(1002, 28);
             button4.Name = "button4";
             button4.Size = new Size(75, 23);
@@ -181,6 +184,7 @@
             // 
             // checkBox1
             // 
+            checkBox1.Anchor = AnchorStyles.Top | AnchorStyles.Right;
             checkBox1.AutoSize = true;
             checkBox1.Location = new Point(952, 32);
             checkBox1.Name = "checkBox1";
@@ -226,6 +230,7 @@
             Controls.Add(richTextBox1);
             Controls.Add(menuStrip1);
             MainMenuStrip = menuStrip1;
+            MinimumSize = new Size(600, 200);
             Name = "Form1";
             Text = "Textový editor";
             menuStrip1.ResumeLayout(false);

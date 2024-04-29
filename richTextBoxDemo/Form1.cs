@@ -95,47 +95,47 @@ namespace richTextBoxDemo
             if (comboBox3.SelectedItem.ToString() == "8")
             {
                 richTextBox1.SelectionFont = new Font(richTextBox1.Font.FontFamily, 8, richTextBox1.Font.Style);
-                toolStripStatusLabel2.Text = "Velikost 8";
+                toolStripStatusLabel2.Text = "Velikost: 8";
             }
             else if (comboBox3.SelectedItem.ToString() == "12")
             {
                 richTextBox1.SelectionFont = new Font(richTextBox1.Font.FontFamily, 12, richTextBox1.Font.Style);
-                toolStripStatusLabel2.Text = "Velikost 12";
+                toolStripStatusLabel2.Text = "Velikost: 12";
             }
             else if (comboBox3.SelectedItem.ToString() == "16")
             {
                 richTextBox1.SelectionFont = new Font(richTextBox1.Font.FontFamily, 16, richTextBox1.Font.Style);
-                toolStripStatusLabel2.Text = "Velikost 16";
+                toolStripStatusLabel2.Text = "Velikost: 16";
             }
             else if (comboBox3.SelectedItem.ToString() == "20")
             {
                 richTextBox1.SelectionFont = new Font(richTextBox1.Font.FontFamily, 20, richTextBox1.Font.Style);
-                toolStripStatusLabel2.Text = "Velikost 20";
+                toolStripStatusLabel2.Text = "Velikost: 20";
             }
             else if (comboBox3.SelectedItem.ToString() == "24")
             {
                 richTextBox1.SelectionFont = new Font(richTextBox1.Font.FontFamily, 24, richTextBox1.Font.Style);
-                toolStripStatusLabel2.Text = "Velikost 24";
+                toolStripStatusLabel2.Text = "Velikost: 24";
             }
             else if (comboBox3.SelectedItem.ToString() == "32")
             {
                 richTextBox1.SelectionFont = new Font(richTextBox1.Font.FontFamily, 32, richTextBox1.Font.Style);
-                toolStripStatusLabel2.Text = "Velikost 32";
+                toolStripStatusLabel2.Text = "Velikost: 32";
             }
             else if (comboBox3.SelectedItem.ToString() == "48")
             {
                 richTextBox1.SelectionFont = new Font(richTextBox1.Font.FontFamily, 48, richTextBox1.Font.Style);
-                toolStripStatusLabel2.Text = "Velikost 48";
+                toolStripStatusLabel2.Text = "Velikost: 48";
             }
             else if (comboBox3.SelectedItem.ToString() == "64")
             {
                 richTextBox1.SelectionFont = new Font(richTextBox1.Font.FontFamily, 64, richTextBox1.Font.Style);
-                toolStripStatusLabel2.Text = "Velikost 64";
+                toolStripStatusLabel2.Text = "Velikost: 64";
             }
             else if (comboBox3.SelectedItem.ToString() == "72")
             {
                 richTextBox1.SelectionFont = new Font(richTextBox1.Font.FontFamily, 72, richTextBox1.Font.Style);
-                toolStripStatusLabel2.Text = "Velikost 72";
+                toolStripStatusLabel2.Text = "Velikost: 72";
             }
         }
 
@@ -213,7 +213,7 @@ namespace richTextBoxDemo
 
         private void toolStripStatusLabel2_Click(object sender, EventArgs e)
         {
-
+            
         }
     }
 }
